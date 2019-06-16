@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Converts Currency</string>
+
+
+
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>Bangladesh2</item>
+        <item>Bangladesh3</item>
+        <item>Bangladesh4</item>
+    </string-array>
+</resources>
